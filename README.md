@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @laserinio
+- 👀 I’m interested in video games.
+- 🌱 I’m currently learning Python.
